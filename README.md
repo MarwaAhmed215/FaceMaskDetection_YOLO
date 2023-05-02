@@ -1,1 +1,2 @@
-# FaceMaskDetection_YOLO
+# FaceMaskDetection_YOLO8
+

@@ -12,8 +12,13 @@ More information about the algorithm is explained below.
   5. natsort library
   
   
- ## File Description
+ ## Files Description
   1. Download ultralics and yolov8m&n models from https://github.com/ultralytics/ultralytics
-  2. Run https://github.com/MarwaAhmed215/FaceMaskDetection_YOLO8/blob/master/main.ipynb main.ipnb jupyter notebook  
+  2. Training, testing and validation data pathes as well as number of classes are added to data.yaml file 
+  3. Run main.ipynb jupyter notebook 
+  4. The best model and training data analysis will be automatically saved into runs file. 
+  5. Import the best model best.pth to test with test data from test file.
+  6. I have added a part of code to save test images or video into images in "frames" file. 
+  7. The detection results are converted into video stream and saved into inferencedata file 
   
   

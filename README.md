@@ -7,8 +7,13 @@ More information about the algorithm is explained below.
 ## Requirements
   1. PyTorch version==1.7
   2. ultralytics for YOLOv8
-  3. yolov8m.pt (medium) or yolov8n.pt (nano) 
+  3. yolov8m.pt (medium) or yolov8n.pt (nano) model
   4. OpenCV (cv2)
   5. natsort library
+  
+  
+ ## File Description
+  Download ultralics and yolov8m&n models from https://github.com/ultralytics/ultralytics
+   Run main.ipnb jupyter notebook  
   
   

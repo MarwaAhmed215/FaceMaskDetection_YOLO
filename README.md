@@ -13,7 +13,7 @@ More information about the algorithm is explained below.
   
   
  ## File Description
-  Download ultralics and yolov8m&n models from https://github.com/ultralytics/ultralytics
-   Run main.ipnb jupyter notebook  
+  1. Download ultralics and yolov8m&n models from https://github.com/ultralytics/ultralytics
+  2. Run https://github.com/MarwaAhmed215/FaceMaskDetection_YOLO8/blob/master/main.ipynb main.ipnb jupyter notebook  
   
   
